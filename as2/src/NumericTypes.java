@@ -18,7 +18,8 @@ public class NumericTypes
       average = (double) (score1 + score2) / number;
       
       // Print the average with explanatory info
-      System.out.println("The average of " + score1 + " and " + score2 + " is " + average);      
+      output = "The average of " + score1 + " and " + score2 + " is " + average;
+      System.out.println(output);      
       System.out.println();      // to leave a blank line 
       
       //*/
@@ -35,7 +36,7 @@ public class NumericTypes
       //*/
       //******************  Problem 1, Part 3 *****************************
       
-      double diameter = 3.0; // the diameter of a sphere
+      double diameter = 1.0; // the diameter of a sphere
 
       // Create a variable to store the radius and initialize with 
       //    one half of the diameter 
@@ -88,6 +89,8 @@ part 2:
 
 part 3:
 -----------------------------------------------
+The volume of a sphere with diameter 1.0 is 0.5235987755982988
+The volume of a sphere with diameter 2.0 is 4.1887902047863905
 The volume of a sphere with diameter 3.0 is 14.137166941154067
 -----------------------------------------------
 */
