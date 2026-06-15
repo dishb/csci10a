@@ -1,8 +1,8 @@
 /**
- * Write a description of class PartA here.
+ * Coding bats practice problems for Java for assignment 5.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Dishant Bhandula
+ * @version 6/15/26
  */
 public class CodingBat
 {

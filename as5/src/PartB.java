@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class PartA here.
+ * Learning about recursion in Java.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Dishant Bhandula
+ * @version 6/15/26
  */
 public class PartB
 {
