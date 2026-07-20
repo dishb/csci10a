@@ -1,4 +1,3 @@
-import java.awt.Point;
 /**
  * Write a description of class ArraysOfObjects here.
  * 
