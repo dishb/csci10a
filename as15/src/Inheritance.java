@@ -53,3 +53,25 @@ public class Inheritance {
         }
     }
 }
+
+/*
+Output:
+
+critter = Animal: legs = 0
+Undifferentiated animal noise.
+critter = Animal: legs = 18
+buffy = Pet: legs = 4, fleas = 0
+buffy = Pet: legs = 8, fleas = 2
+dog = Dog: legs = 4, fleas = 8
+Woof!
+cat = Cat: legs = 4, fleas = 4
+Meow!
+human = Human: legs = 2
+Hello!
+The zoo animals are talking! Listen: 
+Undifferentiated animal noise.
+Hello!
+Undifferentiated Pet Noise
+Meow!
+Woof!
+*/
