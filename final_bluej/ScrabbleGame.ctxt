@@ -1,0 +1,22 @@
+#BlueJ class context
+#Thu Jul 23 19:54:20 PDT 2026
+comment0.target=ScrabbleGame
+comment0.text=\n Console-based Scrabble game for CSCI10A final project.\n\n Players take turns forming dictionary words from their racks.\n The first player to reach 50 points wins.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.target=ScrabbleGame()
+comment10.target=boolean allRacksEmpty()
+comment10.text=\n Checks if all players' racks are empty.\n Used to determine if the game should end when the bag is empty.\n
+comment11.target=void printWelcome()
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+comment3.target=void start()
+comment4.target=void play()
+comment5.target=void declareWinner()
+comment6.target=void printScores()
+comment7.params=text width
+comment7.target=void printPadded(java.lang.String, int)
+comment7.text=\n Prints text, then spaces, so columns line up (fixed width).\n
+comment8.params=score
+comment8.target=void printProgressBar(int)
+comment8.text=\n Prints a simple text bar showing progress toward WIN_SCORE.\n
+comment9.target=void printDivider()
+numComments=12

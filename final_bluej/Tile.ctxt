@@ -1,0 +1,17 @@
+#BlueJ class context
+#Thu Jul 23 19:46:36 PDT 2026
+comment0.target=Tile
+comment0.text=\n A Scrabble tile with a letter and point value.\n Base class for the tile hierarchy.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.target=Tile()
+comment2.params=letter value
+comment2.target=Tile(char, int)
+comment3.target=char getLetter()
+comment4.target=int getValue()
+comment5.params=letter
+comment5.target=void setLetter(char)
+comment6.params=value
+comment6.target=void setValue(int)
+comment7.target=boolean isBlank()
+comment7.text=True if this tile can stand in for any letter.
+comment8.target=java.lang.String toString()
+numComments=9

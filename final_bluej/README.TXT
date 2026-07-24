@@ -7,6 +7,6 @@ all they need to know. The comments should usually include at least:
 PROJECT TITLE: Simple Console Scrabble
 PURPOSE OF PROJECT: CSCI10A Final Project
 VERSION or DATE: 7/23/26
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT: Run the main file, ScrabbleGame.java
 AUTHORS: Dishant Bhandula
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: Included in the console

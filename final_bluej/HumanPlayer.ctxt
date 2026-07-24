@@ -1,0 +1,9 @@
+#BlueJ class context
+#Thu Jul 23 19:54:20 PDT 2026
+comment0.target=HumanPlayer
+comment0.text=\n A human Scrabble player who types words at the console.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.params=name
+comment1.target=HumanPlayer(java.lang.String)
+comment2.params=keyboard dictionary
+comment2.target=java.lang.String chooseWord(java.util.Scanner, Dictionary)
+numComments=3

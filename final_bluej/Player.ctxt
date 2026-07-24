@@ -1,0 +1,24 @@
+#BlueJ class context
+#Thu Jul 23 19:46:36 PDT 2026
+comment0.target=Player
+comment0.text=\n Base class for a Scrabble player.\n Subclasses decide how a word is chosen each turn.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment10.params=word
+comment10.target=int playWord(java.lang.String)
+comment10.text=\n Removes tiles used by word from the rack and returns their point total.\n
+comment11.target=java.lang.String toString()
+comment2.target=java.lang.String getName()
+comment3.target=int getScore()
+comment4.target=java.util.ArrayList getRack()
+comment5.params=points
+comment5.target=void addScore(int)
+comment6.params=tile
+comment6.target=void addTile(Tile)
+comment7.params=bag rackSize
+comment7.target=void fillRack(TileBag, int)
+comment8.target=void printRack()
+comment9.params=word
+comment9.target=boolean canForm(java.lang.String)
+comment9.text=\n Checks whether the player's rack has the letters needed for word.\n Blank tiles may stand in for missing letters.\n
+numComments=12

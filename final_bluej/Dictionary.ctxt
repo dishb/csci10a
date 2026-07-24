@@ -1,0 +1,18 @@
+#BlueJ class context
+#Thu Jul 23 19:46:36 PDT 2026
+comment0.target=Dictionary
+comment0.text=\n A word list used to validate Scrabble plays.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.target=Dictionary()
+comment2.params=fileName
+comment2.target=void loadFromFile(java.lang.String)
+comment2.text=\n Loads the dictionaryo fwords from a given file.\n
+comment3.params=word
+comment3.target=boolean contains(java.lang.String)
+comment3.text=\n Returns true if word is in the list.\n Uses a simple loop to check each word.\n
+comment4.params=index
+comment4.target=java.lang.String getWord(int)
+comment5.target=int size()
+comment6.params=fileName
+comment6.target=java.io.File openDataFile(java.lang.String)
+comment6.text=\n Opens a file from either the bin or src directory, used to solve some quirky issues.\n
+numComments=7

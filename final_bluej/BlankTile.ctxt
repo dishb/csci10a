@@ -1,0 +1,8 @@
+#BlueJ class context
+#Thu Jul 23 19:46:36 PDT 2026
+comment0.target=BlankTile
+comment0.text=\n A blank (wildcard) Scrabble tile. Worth 0 points and can represent any letter.\n Demonstrates inheritance from Tile.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.target=BlankTile()
+comment2.target=boolean isBlank()
+comment3.target=java.lang.String toString()
+numComments=4

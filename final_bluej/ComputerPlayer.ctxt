@@ -1,0 +1,12 @@
+#BlueJ class context
+#Thu Jul 23 19:46:36 PDT 2026
+comment0.target=ComputerPlayer
+comment0.text=\n A simple computer Scrabble player.\n Looks through the dictionary for a word it can make from its rack.\n\n @author Dishant Bhandula\n @version 7/23/26\n
+comment1.params=name
+comment1.target=ComputerPlayer(java.lang.String)
+comment2.params=keyboard dictionary
+comment2.target=java.lang.String chooseWord(java.util.Scanner, Dictionary)
+comment3.params=word
+comment3.target=int scoreOfWord(java.lang.String)
+comment3.text=\n Adds up the tile values for a word using the current rack.\n Does not remove tiles from the rack.\n
+numComments=4
